@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://www.canva.com/design/DAGA8yLZ5xo/Ie8ndhMFg6IyHQ_emK3hJA/edit?utm_content=DAGA8yLZ5xo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width=1000px>
+<img src="https://github.com/sakshi-nischal/sakshi-nischal/blob/main/Name%20Animation.gif" width=1000px>
 </p>
 
 <!--
