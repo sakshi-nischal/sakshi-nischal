@@ -1,6 +1,3 @@
-<p align='center'>
-<img src="https://github.com/sakshi-nischal/sakshi-nischal/blob/main/Name%20Animation.gif" width=1000px>
-</p>
 
 <!--
 **sakshi-nischal/sakshi-nischal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
